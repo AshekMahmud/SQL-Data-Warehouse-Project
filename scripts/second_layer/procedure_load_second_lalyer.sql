@@ -19,8 +19,9 @@ Parameters:
 Usage Example:
 	EXEC second_layer.load_second_layer;
 
-Use the above example to load the second_layer tables using the Procedure
-'second_layer.load_second_layer.
+Note:
+	Created PROCEDURE to execute the entire command at once.
+	Use it like the presented example.
 ------------------------------------------------------------
 */
 
