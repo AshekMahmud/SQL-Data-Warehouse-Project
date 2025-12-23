@@ -118,7 +118,7 @@ WHERE sls_sales != sls_quantity * sls_price
 ORDER BY sls_sales, sls_quantity, sls_price;
 
 -----------------------------------------------------------------------
--- Checking 'second_layer.erp_cust_az12'
+-- Checking 'second_layer.erp_cust'
 -----------------------------------------------------------------------
 -- Identify Out-of-Range Dates
 
@@ -134,7 +134,7 @@ SELECT DISTINCT
 FROM second_layer.erp_cust;
 
 -----------------------------------------------------------------------
--- Checking 'second_layer.erp_loc_a101'
+-- Checking 'second_layer.erp_loc'
 -----------------------------------------------------------------------
 -- Data Standardization & Consistency
 SELECT 
@@ -143,7 +143,7 @@ FROM second_layer.erp_loc
 ORDER BY cntry;
 
 -----------------------------------------------------------------------
--- Checking 'second_layer.erp_px_cat_g1v2'
+-- Checking 'second_layer.erp_px_cat'
 -----------------------------------------------------------------------
 -- Check for Unwanted Spaces
 
