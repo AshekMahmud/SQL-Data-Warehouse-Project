@@ -37,8 +37,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 ## 🌟 About Me
-Hi there! I'm **Md. Ashek Mahmud Shuda**, a passionate **Data Enthusiast** with a strong foundation in mathematics and a growing expertise in data science.
-
+Hi there! I'm **Md. Ashek Mahmud Shuda**, a passionate **Data Enthusiast** with a strong foundation in mathematics and a growing expertise in data science.  
 🔍 I thrive on solving complex problems, building scalable data pipelines, and also in data analytics.  
 🧠 With a love for analytical thinking and a knack for Python, SQL, and Power BI, I enjoy transforming raw data into meaningful stories.  
 🚀 I'm especially excited about NLP, Machine Learning, Deep Learning, Data Warehousing, and the intersection of data and decision-making.
